@@ -20,6 +20,9 @@ node_modules/
 # Optional npm cache directory
 .npm
 
+# Package JSON Locked file
+package-lock.json
+
 # Optional Yarn cache directory
 .yarn
 
