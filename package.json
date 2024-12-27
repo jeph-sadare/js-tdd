@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd",
+  "version": "0.0.1",
+  "description": "tdd in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "tdd",
+    "javascript",
+    "test"
+  ],
+  "author": "Jephthah Sadare",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  }
+}
